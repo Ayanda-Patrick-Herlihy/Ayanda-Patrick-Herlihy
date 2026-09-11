@@ -1,0 +1,24 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ayanda Patrick Herlihy profile header</title>
+  <desc id="desc">A dark technical field connecting music, artificial intelligence, agents, and autonomous systems.</desc>
+  <rect width="1200" height="280" rx="24" fill="#0B1020"/>
+  <path d="M0 214H1200" stroke="#1D2A46"/>
+  <path d="M0 164H1200" stroke="#16233D"/>
+  <path d="M0 114H1200" stroke="#16233D"/>
+  <path d="M0 64H1200" stroke="#16233D"/>
+  <path d="M80 0V280M200 0V280M320 0V280M440 0V280M560 0V280M680 0V280M800 0V280M920 0V280M1040 0V280" stroke="#111C33"/>
+  <path d="M42 228C88 228 88 188 134 188C180 188 180 222 226 222C272 222 272 162 318 162C364 162 364 204 410 204C456 204 456 148 502 148C548 148 548 180 594 180C640 180 640 132 686 132C732 132 732 182 778 182C824 182 824 158 870 158C916 158 916 214 962 214C1008 214 1008 176 1054 176C1100 176 1100 198 1158 198" stroke="#5EEAD4" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 220C150 220 150 220 252 220C354 220 354 205 456 205C558 205 558 216 660 216C762 216 762 198 864 198C966 198 966 210 1160 210" stroke="#F59E0B" stroke-width="2" stroke-dasharray="5 9" opacity="0.7"/>
+  <circle cx="134" cy="188" r="7" fill="#5EEAD4"/>
+  <circle cx="502" cy="148" r="7" fill="#5EEAD4"/>
+  <circle cx="686" cy="132" r="7" fill="#5EEAD4"/>
+  <circle cx="962" cy="214" r="7" fill="#5EEAD4"/>
+  <g opacity="0.9">
+    <circle cx="108" cy="62" r="3" fill="#F59E0B"/>
+    <circle cx="1094" cy="52" r="3" fill="#F59E0B"/>
+    <circle cx="1010" cy="238" r="3" fill="#F59E0B"/>
+  </g>
+  <text x="64" y="72" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="1">AYANDA PATRICK HERLIHY</text>
+  <text x="66" y="102" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="2">AI RESEARCH · AGENT SYSTEMS · AUTONOMY</text>
+  <text x="66" y="251" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="13" letter-spacing="1">from music production to machine intelligence</text>
+</svg>
