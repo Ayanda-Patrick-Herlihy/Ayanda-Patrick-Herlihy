@@ -51,16 +51,9 @@ profile = {
 
 ## Research map
 
-```mermaid
-flowchart LR
-    M[Music production] --> A[AI research]
-    A --> L[LLM agents]
-    A --> R[Reinforcement learning]
-    L --> C[Multi-agent coordination]
-    R --> C
-    C --> U[Autonomous systems]
-    U --> I[Questions of inequality]
-```
+<div align="center">
+  <img src="./assets/research_cycle.png" width="100%" alt="Closed-loop research framework: Learn, Coordinate, Act & Evaluate, Societal Impact" />
+</div>
 
 ## Research project
 
