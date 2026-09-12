@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="From music production to machine intelligence: Ayanda Patrick Herlihy's research profile" />
+<img src="./assets/header.png" width="100%" alt="From music production to machine intelligence: Ayanda Patrick Herlihy's research profile" />
 
 <p><strong>Computer science graduate preparing for PhD research in LLM agents, reinforcement learning, and multi-agent systems.</strong></p>
 
